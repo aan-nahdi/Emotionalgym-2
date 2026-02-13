@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>About — Emotional Gym</title>
+
+<link rel="stylesheet" href="style.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+
+<!-- NAVIGATION -->
+
+<div class="nav">
+
+<a href="index.html">Home</a>
+<a href="signup.html">Practice</a>
+<a href="contact.html">Contact</a>
+<a href="https://instagram.com/emotionalgym.hyd">Instagram</a>
+<a href="https://wa.me/917799565000">WhatsApp</a>
+
+</div>
+
+<!-- ABOUT CONTENT -->
+
+<div class="section">
+
+<h1>About Emotional Gym</h1>
+
+<h2>The Beginning</h2>
+
+<p>
+Emotional Gym was not created as a business idea.
+It emerged from a recognition: modern life asks people to carry emotional weight without ever teaching them how to build emotional strength.
+</p>
+
+<p>
+People learn how to think, how to work, how to achieve — but rarely how to remain steady within uncertainty, conflict, pressure, or inner intensity.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>The Problem</h2>
+
+<p>
+Today’s world offers endless information about emotions but very few structured environments to practice emotional capacity.
+</p>
+
+<ul>
+
+<li>Motivation without structure fades.</li>
+<li>Advice becomes noise.</li>
+<li>Healing exists, but daily emotional training is rare.</li>
+
+</ul>
+
+<p>
+What is missing is a space where emotional strength becomes a trainable skill.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>The Vision</h2>
+
+<p>
+The vision is simple:
+<strong>Emotional strength can be trained when practice replaces theory.</strong>
+</p>
+
+<p>
+Like physical training strengthens the body, Emotional Gym develops emotional resilience through guided sessions designed to increase awareness, expand tolerance, and cultivate steady presence.
+</p>
+
+</div>
+
+<div class="section founder">
+
+<h2>The Creation</h2>
+
+<p>
+Emotional Gym grew from observing that people do not need more information — they need a container.
+</p>
+
+<p>
+A space that feels grounded rather than overwhelming, intentional rather than commercial, and steady rather than urgent.
+</p>
+
+<p>
+Every aspect is designed to feel like entering a practice environment rather than consuming content.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Founder-Led Presence</h2>
+
+<p>
+Emotional Gym is guided through direct facilitation rather than automated instruction.
+Presence is the foundation. Structure is the method. Practice is the path.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>The Path Forward</h2>
+
+<p>
+The long-term vision is to normalize emotional training as a fundamental human discipline — accessible, structured, and integrated into everyday life.
+</p>
+
+<p>
+Emotional Gym invites individuals not to escape emotion, not to fix themselves, but to train — steadily, intentionally, and with awareness.
+</p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
