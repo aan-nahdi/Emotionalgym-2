@@ -3,7 +3,6 @@ const sections=document.querySelectorAll('.section');
 function reveal(){
 sections.forEach((el,i)=>{
 const rect=el.getBoundingClientRect();
-
 if(rect.top < window.innerHeight-120){
 setTimeout(()=>{
 el.style.opacity="1";
